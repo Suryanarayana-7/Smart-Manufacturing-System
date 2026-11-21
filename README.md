@@ -140,7 +140,7 @@ mysql --version
 Clone the repository:
 
 ```bash
-git clonehttps://github.com/Suryanarayana-7/Smart-Manufacturing-System.git
+git clone https://github.com/Suryanarayana-7/Smart-Manufacturing-System.git
 
 Open the downloaded project:
 
