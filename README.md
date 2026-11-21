@@ -140,8 +140,7 @@ mysql --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/thirumalreddyambavaram/YottaFlex-Manufacturing-Application.git
-```
+git clonehttps://github.com/Suryanarayana-7/Smart-Manufacturing-System.git
 
 Open the downloaded project:
 
